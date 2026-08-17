@@ -1,0 +1,5 @@
+# PLACEHOLDER -- replace with the actual list of image filenames (or relative
+# paths) used in the training split for the results reported in the manuscript.
+# One filename per line, e.g.:
+# NonDemented/OAS1_0001_slice_042.jpg
+# VeryMildDemented/OAS1_0007_slice_051.jpg

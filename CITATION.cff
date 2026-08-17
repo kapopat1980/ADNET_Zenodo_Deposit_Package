@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript (details to be finalized upon publication) and this repository."
+title: "ADNET: Adaptive Dual-Stream Network with Hierarchical Attention Fusion for Early-Stage Alzheimer's Disease Detection from Brain MRI"
+type: software
+authors:
+  - family-names: "Gondalia"
+    given-names: "Vivek"
+    affiliation: "Faculty of Computer Applications, Marwadi University, Rajkot, Gujarat, India"
+  - family-names: "Popat"
+    given-names: "Kalpesh"
+    affiliation: "Faculty of Computer Applications, Marwadi University, Rajkot, Gujarat, India"
+    email: "kapopat1980@gmail.com"
+  - family-names: "Parekh"
+    given-names: "Disha"
+    affiliation: "Sardar Vallabhbhai Global University, Ahmedabad, Gujarat, India"
+license: MIT
+repository-code: "https://github.com/kapopat1980/ADNET"
+version: "1.0.0-preprint"
+date-released: "2026-08-08"
+keywords:
+  - "Alzheimer's Disease"
+  - "Brain MRI"
+  - "Deep Learning"
+  - "EfficientNet"
+  - "Swin Transformer"
+  - "Attention Mechanism"
+  - "Multi-class Classification"
+  - "Neuroimaging"
+  - "Early Detection"
+  - "Grad-CAM++"

@@ -1,0 +1,24 @@
+# Core deep learning
+torch>=2.2.0
+torchvision>=0.17.0
+timm>=0.9.16          # pretrained EfficientNet-B3 / Swin-T weights
+
+# Data handling
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+Pillow>=10.0.0
+
+# Duplicate/leakage detection
+imagehash>=4.3.1
+
+# Explainability
+grad-cam>=1.5.0        # or a custom Grad-CAM++ implementation, per Section 6.1
+
+# Statistics
+scipy>=1.11.0
+statsmodels>=0.14.0    # for McNemar's test, Wilcoxon/Friedman if reproducing baselines
+
+# Utilities
+tqdm>=4.66.0
+matplotlib>=3.8.0
